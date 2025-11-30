@@ -16,7 +16,7 @@
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-17.1k-brightgreen?style=flat" alt="downloads"/></a>
 <a href="#"><img src="https://img.shields.io/badge/version-18.0-blue?style=flat" alt="version"/></a>
-<a href="#"><img src="https://img.shields.io-badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
+<a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
 <img src="https://insights.coinigy.com/content/images/size/w2000/2023/09/CoinigyBoards.png" width="824" alt="Screenshot"/>
